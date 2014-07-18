@@ -49,7 +49,7 @@ double get_x(polar2d vec) {
 int main() {
     const double pi = 3.141592654;
 
-    polar2d p1(1.0, pi/2);  // vereinbar einen Punkt durch Radius und Winkel
+    polar2d p1(1.0, pi/2);  // vereinbare einen Punkt durch Radius und Winkel
     p1 *= 2.0;              // aendere Radius von p1 um angegebenen Faktor
     p1.rotate(-pi/6);       // rotiere p1 um das Winkelargument
     cout << "Kartesische x-Koordinate: " << get_x(p1) << endl;
