@@ -12,14 +12,14 @@ using namespace std;
 
 bool istPrim(int z) {
 
-    // ueberpruefe alle Zahlen zwischen 2 und z/2,
+    // ueberpruefe alle Zahlen zwischen 2 und z/2 darauf,
     // ob z durch sie teilbar ist
     for(int i=2; i<=(z/2); i++) {
-        // falls nicht-trivialer Faktor gefunden, ist z nicht prim
+        // nicht-trivialer Faktor gefunden, z ist nicht prim
         if(z % i == 0) return false;
     }
     
-    // falls kein nicht-trivialer Faktor existiert, ist z prim
+    // es ex. kein nicht-trivialer Faktor, z ist prim
     return true;
 }
 
