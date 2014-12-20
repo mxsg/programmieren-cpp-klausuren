@@ -22,3 +22,12 @@ SS 2011             | ●         | ●
 SS 2012             | ●         | –
 SS 2013             | ●         | –
 *ab SS 2014*        | –         | –
+
+## Todo
+
+Was noch gemacht werden könnte:
+
+-   Lösungen zu weiteren Klausuren ergänzen
+-   Aufgabentexte zum Repository hinzufügen (Urheberrechtsproblematik beim Hinzufügen von Aufgaben im Volltext?)
+-   zusätzliche Erklärungen/Kommentare zum Code
+-   Ausgabeprotokolle z.B. für die Aufgaben vom Typ "Was wird ausgegeben?"
