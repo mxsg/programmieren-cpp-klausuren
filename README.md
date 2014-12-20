@@ -1,13 +1,13 @@
-Programmieren (C++): Klausuren
-==============================
+# Programmieren (C++): Klausuren
+
 Hier werden Lösungen von Altklausuren der Programmieren-Vorlesung für Physik-Bachelor-Studenten am KIT gesammelt. Ziel der Vorlesung ist es, die Grundlagen der Programmierung am Beispiel von C++ zu erlernen. Die Klausuraufgaben können zum Beispiel [hier](http://physik.leech.it/pub/C++/Klausuren/) heruntergeladen werden.
 
 Der Code ist jeweils mit dem Ziel verfasst, möglichst klar strukturiert und einfach verständlich zu sein. Insbesondere wird auch auf fortgeschrittene Sprachkonstrukte verzichtet, die über den Anspruch der Vorlesung hinausgehen.
 
 Fehler im Code sind natürlich immer möglich. Hinweise darauf, Fragen zum Code und zusätzliche Lösungen gerne per Mail. Änderungen können auch direkt per Pull-Request eingereicht werden.
 
-Umfang der Sammlung
--------------------
+## Umfang der Sammlung
+
 Bisher enthält die Sammlung vollständige Lösungen zu den folgenden 10 Klausuren (in der Tabelle mit "●" markiert):
 
 Semester            | Klausur 1 | Klausur 2
