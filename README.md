@@ -8,11 +8,12 @@ Fehler im Code sind natürlich immer möglich. Hinweise darauf, Fragen zum Code 
 
 Umfang der Sammlung
 -------------------
-Bisher enthält die Sammlung vollständige Lösungen zu den folgenden 9 Klausuren (in der Tabelle mit "●" markiert):
+Bisher enthält die Sammlung vollständige Lösungen zu den folgenden 10 Klausuren (in der Tabelle mit "●" markiert):
 
 Semester            | Klausur 1 | Klausur 2
 :------------------ | :-------: | :-------:
-*bis WS 2005/2006*  | –         | –
+*bis WS 2004/2005*  | –         | –
+WS 2005/2006        | ●         | –
 WS 2006/2007        | ●         | ●
 WS 2007/2008        | –         | –
 WS 2008/2009        | ●         | ●
