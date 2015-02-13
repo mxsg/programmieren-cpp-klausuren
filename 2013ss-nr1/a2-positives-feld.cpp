@@ -13,6 +13,7 @@ bool ist_positiv(double array[], int n) {
         // false zurückgeben
         if(array[i] <= 0) return false;
     }
-    
+
     // ganzes Feld wurde ueberprueft, alle Zahlen sind positiv
     return true;
+}
